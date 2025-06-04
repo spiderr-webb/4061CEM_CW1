@@ -9,6 +9,7 @@ This program is designed to perform a brute-force attack on a SHA-256 hash that 
 The project directory contains the following files:
 
 `passwordCracker.py` - This file contains the main python program
+
 `known_passwords.csv` - This file contains the table of SHA-256 hashes that are known by the program
 
 ## How To Use
